@@ -1,8 +1,8 @@
 <a href="https://flutter.dev/">
   <h1 align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/4dvKYxc/github-header-image.png">
-      <img alt="Flutter" src="https://i.ibb.co/4dvKYxc/github-header-image.png">
+      <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/hm1Nzjc/github-header-image-2.png">
+      <img alt="Flutter" src="https://i.ibb.co/hm1Nzjc/github-header-image-2.png">
     </picture>
   </h1>
 </a>
